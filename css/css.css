@@ -1,0 +1,3704 @@
+@media screen and (min-width: 1441px) and (max-width:1920px) {
+    .img1{
+        width: 14rem;
+    } 
+    
+    .men {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+    }
+    
+    .img2 {
+        width: 2.1rem;
+        height: 1.5rem;
+    }
+    
+    .menu {
+        font-size: 2.4rem;
+        font-weight: 300;
+        font-family: 'Ubuntu', sans-serif;
+    }
+    
+    header{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 3rem;
+        padding: 0rem 18rem;
+    }
+    
+    .div1 {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: center;
+        margin-top: 5rem;
+        padding: 0rem 18rem;
+    }
+    
+    .hello {
+        margin: 0rem 1rem;
+        font-size: 3.4rem;
+        font-weight: 700;
+        font-family: 'Ubuntu', sans-serif;
+    }
+    
+    .div2 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        margin-top: 2rem;
+        padding: 0rem 18rem;
+    }
+    
+    .no1 {
+        font-weight: 500;
+        font-size: 7.4rem;
+        width: 89.9rem;
+    }
+    
+    .p1 {
+        margin: 2rem 0rem;
+        font-size: 4rem;
+        font-weight: 400;
+        width: 89.9rem;    
+    }
+    
+    .p2 {
+        margin: 1.2rem 0rem;
+        font-size: 2.4rem;
+        font-weight: 400;
+        width: 89.9rem;    
+    }
+    
+    .div3 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        margin-top: 4rem;
+        padding: 0rem 18rem; 
+    }
+    
+    .pic {
+        width: 55rem;
+    }
+    
+    .pic2 {
+        display: none;
+    }
+
+    .ic {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: center;
+    }
+    
+    .iconos {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around; 
+        align-items: center;  
+        align-self: center;
+        width: 25%;
+    
+        margin-top: 9rem;
+    }
+
+    .scroll {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        margin-left: 30rem;
+    }
+
+    .scroll span {
+        font-size: 1.8rem;
+        font-weight: 300;
+        margin-top: 10rem;
+    }
+
+    .scroll img {
+        margin-top: 1rem;
+    }
+    
+    .a {
+        width: 2rem;
+        height: 2rem; 
+    }
+    
+    .b {
+        width: 3.8rem;
+        height: 3.8rem;
+    }
+    
+    .c {
+        width: 2rem; 
+    }
+    
+    .tit {
+        font-size: 3.6rem;
+        font-weight: 400;
+        margin-top: 25rem;
+        align-self: center;
+    }
+    
+    .video {
+        width: 126.2rem;
+        margin-top: 7rem;
+        align-self: center;
+    }
+    
+    .video2 {
+        display: none;
+    }
+    
+    .tit2 {
+        font-size: 5.4rem;
+        font-weight: 500;
+        margin-top: 25rem;
+        margin-bottom: 7rem;
+        align-self: center;
+    }
+
+    .cuadros {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0rem 16rem;
+    }
+
+    .div4 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        padding: 0rem 2rem; 
+        background-color: #333333;
+    
+        margin-bottom: 4rem;
+        width: 38rem;
+    }
+    
+    .design {
+        font-size: 5rem;
+        font-weight: 400;
+        color: #FFFFFF;
+        margin-top: 7rem;
+    }
+    
+    .div4 p {
+        font-size: 1.8rem;
+        font-weight: 400;
+        color: #FFFFFF;
+        margin-top: 3rem;
+    }
+    
+    .more {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start; 
+        align-items: center;
+    
+        margin-top: 7rem;
+        margin-bottom: 7rem;
+    }
+    
+    .more a {
+        text-decoration: none;
+        color: #FFFFFF;
+        font-size: 1.8rem;
+        font-weight: 600;
+    }
+    
+    .more img {
+        width: 4.1rem;
+        margin-left: 2rem;
+    }
+    
+    .div5 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        padding: 0rem 2rem; 
+        background-color: #D6D6D6;
+    
+        margin-bottom: 4rem;
+        width: 38rem;
+    }
+    
+    .design2 {
+        font-size: 5rem;
+        font-weight: 400;
+        color: #333333;
+        margin-top: 7rem;
+    }
+    
+    .div5 p {
+        font-size: 1.8rem;
+        font-weight: 400;
+        color: #333333;
+        margin-top: 3rem;
+    }
+    
+    .more2 {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start; 
+        align-items: center;
+    
+        margin-top: 7rem;
+        margin-bottom: 7rem;
+    }
+    
+    .more2 a {
+        text-decoration: none;
+        color: #333333;
+        font-size: 1.8rem;
+        font-weight: 600;
+    }
+    
+    .more2 img {
+        width: 4.1rem;
+        margin-left: 2rem;
+    }
+    
+    .puntos {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        padding: 0rem 16rem;
+    
+        margin-top: 4rem;
+    }
+    
+    .flecha {
+        right: 0;
+        position: absolute;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        width: 8%;
+        margin-right: 22rem;
+    }
+    
+    .flecha .img {
+        margin-left: -6rem;
+        position: absolute;
+    }
+    
+    .puntos img {
+        margin: 0rem 1.5rem;
+    }
+    
+    .portfolio {
+        font-size: 5.4rem;
+        font-weight: 500;
+        color: #333333;
+        align-self: center;
+        margin-top: 25rem;
+    }
+    
+    .lista {
+       display: none;
+    }
+    
+    .lista2 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-self: center;
+        width: 55%;
+        padding: 0rem 3rem;
+        margin-top: 4.5rem; 
+    }
+    
+    .lista2 li {
+        list-style: none;
+        font-size: 1.8rem;
+        font-weight: 400;
+        margin: 1.5rem 0rem;
+    }
+    
+    .all {
+        font-size: 1.4rem;
+        font-weight: 600 !important;
+    }
+    
+    .imagenes {
+        display: none;
+    }
+
+    .imagenes2 {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 5rem;
+        padding: 0rem 9rem;
+    }
+
+    .imagenes2 img{
+        align-self: flex-start;
+        width: 32%;
+    }
+
+    .d1 {
+        margin-top: -11rem;
+        position: relative;
+    }
+    .d3 {
+        margin-top: 3.3rem;
+    }
+    .d5 {
+       margin-top: -24.8rem;
+    }
+    
+    .client {
+        font-size: 5.4rem;
+        font-weight: 500;
+        color: #333333;
+        margin-top: 25rem;
+        align-self: center;
+    }
+    
+    .div6 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around; 
+    }
+    
+    .man {
+        margin-top: 10rem;
+        width: 48.6rem;
+        align-self: center;
+    }
+
+    .man1 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        width: 100%;
+        padding: 0rem 1.5rem;  
+    }
+
+    .inf {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 49%;
+    }
+
+    .puntos2 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+        width: 35%;
+        align-self: flex-start;
+    
+        margin-top: 12rem;
+    }
+
+    .flecha2 {
+        right: 0;
+        position: absolute;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        width: 8%;
+        margin: 0rem 22rem;
+    }
+    
+    .flecha2 .img {
+        margin-left: -7rem;
+        position: absolute;
+    }
+    
+    .com1 {
+        margin-top: 6rem;
+        margin-bottom: 1rem;
+    }
+    
+    .com1 img {
+        width: 3.418rem;
+    }
+    
+    .com2 {
+        position: absolute;
+        right: 0;
+        margin-top: 1rem;
+        margin: 0rem 22rem;
+    }
+    
+    .com2 img {
+        width: 3.418rem;
+    }
+    
+    .div6 p {
+        font-size: 3.2rem;
+        font-weight: 400;
+        color: #333333;
+    }
+    
+    .name {
+        font-size: 2.8rem;
+        color: #333333;
+        font-weight: 500;
+        margin-top: 15rem;
+    }
+    
+    .ceo {
+        font-size: 2rem;
+        font-weight: 400;
+        margin-top: 30rem;
+    }
+    
+    .div7 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background-color: #333333;
+        margin-top: 10rem;
+    }
+    
+    .div7 .hel {
+        position: absolute;
+        width: 154.1rem;
+    }
+    
+    .title {
+        color: #FFFFFF;
+        font-weight: 400;
+        font-size: 3.2rem;
+        margin-top: 8rem;
+    }
+    
+    .title2 {
+        color: #FFFFFF;
+        font-weight: 400;
+        font-size: 5.4rem;
+        margin-top: 3rem;
+        z-index: 3;
+    }
+    
+    .cont {
+        background-color: #FFFFFF;
+        text-decoration: none;
+        color: #333333;
+        width: 18.5rem;
+        height: 7.3rem;
+        font-size: 2.8rem;
+        font-weight: 400;
+        margin-top: 8rem;
+    
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        z-index: 2;
+    }
+    
+    .ico {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        width: 50%;
+        margin-top: 8rem;
+        margin-bottom: 8rem;
+    }
+    
+    .ico img {
+        width: 3.2rem;
+    }
+    
+    .ba {
+        width: 2.5rem;
+    }
+    
+    .div8 {
+        display: none;
+    }
+    
+    .div8- {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0rem 30rem;
+        margin-top: 12rem;
+        width: 100%;
+    }
+    
+    .div8- div{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center; 
+        z-index: 5;
+    }
+    
+    .div8- h2{
+        font-size: 6.4rem;
+        font-weight: 400;
+        margin-top: 4rem;
+    }
+    
+    .div8- span{
+        font-size: 2.4rem;
+        font-weight: 400;
+        margin-top: 1.5rem;
+    }
+    
+    .proje {
+        position: absolute;
+        margin-left: 10rem;
+        margin-top: 3.3rem;
+        width: 123.8rem;
+    }
+    
+    .container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 0rem 1.5rem;
+    }
+
+    .cuadros2 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+        width: 100%;
+        padding: 0rem 28rem;
+    }
+    
+    .div9 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: 3rem;
+        background-color: #333333;
+        width: 38rem;
+    }
+
+    .div9 h2 {
+        color: #FFFFFF;
+        font-size: 2rem;
+        font-weight: 400;
+        align-self: center;
+        margin-top: 7rem;
+        margin-left: 1.5rem;
+    }
+
+    .div9 img {
+        width: 100%;
+    }
+    
+    .div9- {
+        display: none;
+    }
+    
+    .blog{
+        font-size: 5.4rem;
+        font-weight: 500;
+        margin-top: 28rem;
+        margin-bottom: 4rem;
+    }
+    
+    .div9- img{
+        align-self: center;
+        width: 100%;
+        margin-top: -0.2rem;
+    }
+    
+    .info {
+        display: flex;
+        justify-content: space-between;
+        align-items: center; 
+        width: 100%;
+        margin-top: 2rem;
+        padding: 0rem 2rem;
+    }
+    
+    .info span {
+        color: #FFFFFF;
+        font-size: 1.4rem;
+        font-weight: 400;
+    }
+    
+    .div9- h2 {
+        color: #FFFFFF;
+        font-size: 2rem;
+        font-weight: 400;
+        align-self: center;
+        margin-top: 7rem;
+        margin-left: 1.5rem;
+    }
+    
+    .more3 {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start; 
+    
+        margin-top: 7rem;
+        align-self: flex-start;
+        margin-bottom: 2rem;
+        padding: 0rem 2rem;
+    }
+    
+    .more3 a {
+        text-decoration: none;
+        color: #FFFFFF;
+        font-size: 1.8rem;
+        font-weight: 500;
+    }
+    
+    .more3 img {
+        width: 4.1rem;
+        margin-left: 2rem;
+    }
+    
+    .container h2 {
+        font-size: 2.4rem;
+        font-weight: 400;
+        margin-top: 7rem;
+        align-self: flex-start;
+    }
+    
+    .fin p {
+        font-size: 4rem;
+        font-weight: 300;
+        margin-top: 4rem;
+        width: 60.7rem;
+    }
+    
+    .hire {
+        font-size: 5.4rem !important;
+        font-weight: 500 !important;
+        margin-top: 20rem !important;
+        align-self: center !important;
+    }
+    .fin {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+        padding: 0rem 30rem;
+    }
+    
+    .line {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        width: 100%;
+        margin-top: 12rem;
+    }
+    
+    .line div {
+        margin-top: 2rem;
+        width: 26.6rem;
+    }
+    
+    .line span {
+        font-size: 2rem;
+        font-weight: 300;
+    }
+    
+    .form {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        width: 35%;
+        background-color: #333333;
+        padding: 0rem 6rem;
+        margin-top: 6rem;
+    }
+    
+    .form input {
+        width: 100%;
+        height: 3rem;
+        background-color: #333333;
+        border: none;
+        outline: none;
+        border-bottom: 0.1rem solid #FFFFFF;
+        color: #FFFFFF;
+        font-size: 1.4rem;
+        margin-top: 6rem;
+    }
+    
+    .proj {
+        color: #FFFFFF;
+        font-size: 1.4rem;
+        font-weight: 400;
+        margin-top: 6rem;
+    }
+    
+    .inp {
+        margin-top: 0.5rem !important;
+    }
+    
+    ::placeholder {
+        color: #FFFFFF;
+        font-size: 1.4rem;
+        font-weight: 400;
+    }
+    
+    .btn {
+        display: flex;
+        justify-content: flex-end;
+        width: 100%;
+    }
+    
+    .form button {
+        font-size: 1.4rem;
+        font-weight: 300;
+        width: 11.6rem;
+        height: 4.9rem;
+        align-self: flex-end;
+        margin-top: 2rem;
+        background-color: #FFFFFF;
+        border: none;
+        margin-bottom: 6rem;
+    }
+    
+    .bottom {
+        display: flex;
+        flex-direction: row-reverse;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+        padding: 0rem 15rem;
+        margin-top: 8rem;
+    }
+
+    .iconos2 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around; 
+        align-items: center;
+        width: 40%;  
+    
+        margin-top: 5rem;
+    }
+    
+    .temp {
+        font-size: 1.4rem;
+        font-weight: 400;
+        margin-top: 2rem;
+    }
+}
+
+@media screen and (min-width: 1281px) and (max-width:1440px) {
+    .img1{
+        width: 14rem;
+    } 
+    
+    .men {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+    }
+    
+    .img2 {
+        width: 2.1rem;
+        height: 1.5rem;
+    }
+    
+    .menu {
+        font-size: 2.4rem;
+        font-weight: 300;
+        font-family: 'Ubuntu', sans-serif;
+    }
+    
+    header{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 3rem;
+        padding: 0rem 1.5rem;
+    }
+    
+    .div1 {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: center;
+        margin-top: 5rem;
+        padding: 0rem 3rem;
+    }
+    
+    .hello {
+        margin: 0rem 1rem;
+        font-size: 3.4rem;
+        font-weight: 700;
+        font-family: 'Ubuntu', sans-serif;
+    }
+    
+    .div2 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        margin-top: 2rem;
+        padding: 0rem 3rem;
+    }
+    
+    .no1 {
+        font-weight: 500;
+        font-size: 7.4rem;
+        width: 77rem;
+    }
+    
+    .p1 {
+        margin: 2rem 0rem;
+        font-size: 4rem;
+        font-weight: 400;
+        width: 77rem;
+    }
+    
+    .p2 {
+        margin: 1.2rem 0rem;
+        font-size: 2.4rem;
+        font-weight: 400;
+        width: 77rem;
+    }
+    
+    .div3 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        margin-top: 4rem;
+        padding: 0rem 3rem; 
+    }
+    
+    .pic {
+        width: 55rem;
+    }
+    
+    .pic2 {
+        display: none;
+    }
+
+    .ic {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: center;
+    }
+    
+    .iconos {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around; 
+        align-items: center;  
+        align-self: center;
+        width: 25%;
+    
+        margin-top: 9rem;
+    }
+
+    .scroll {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        margin-left: 30rem;
+    }
+
+    .scroll span {
+        font-size: 1.8rem;
+        font-weight: 300;
+        margin-top: 10rem;
+    }
+
+    .scroll img {
+        margin-top: 1rem;
+    }
+    
+    .a {
+        width: 2rem;
+        height: 2rem; 
+    }
+    
+    .b {
+        width: 3.8rem;
+        height: 3.8rem;
+    }
+    
+    .c {
+        width: 2rem; 
+    }
+    
+    .tit {
+        font-size: 3.6rem;
+        font-weight: 400;
+        margin-top: 25rem;
+        align-self: center;
+    }
+    
+    .video {
+        width: 126.2rem;
+        margin-top: 7rem;
+        align-self: center;
+    }
+    
+    .video2 {
+        display: none;
+    }
+    
+    .tit2 {
+        font-size: 5.4rem;
+        font-weight: 500;
+        margin-top: 25rem;
+        margin-bottom: 7rem;
+        align-self: center;
+    }
+
+    .cuadros {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .div4 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        padding: 0rem 2rem; 
+        background-color: #333333;
+    
+        margin-bottom: 4rem;
+        width: 38rem;
+    }
+    
+    .design {
+        font-size: 5rem;
+        font-weight: 400;
+        color: #FFFFFF;
+        margin-top: 7rem;
+    }
+    
+    .div4 p {
+        font-size: 1.8rem;
+        font-weight: 400;
+        color: #FFFFFF;
+        margin-top: 3rem;
+    }
+    
+    .more {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start; 
+        align-items: center;
+    
+        margin-top: 7rem;
+        margin-bottom: 7rem;
+    }
+    
+    .more a {
+        text-decoration: none;
+        color: #FFFFFF;
+        font-size: 1.8rem;
+        font-weight: 600;
+    }
+    
+    .more img {
+        width: 4.1rem;
+        margin-left: 2rem;
+    }
+    
+    .div5 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        padding: 0rem 2rem; 
+        background-color: #D6D6D6;
+    
+        margin-bottom: 4rem;
+        width: 38rem;
+    }
+    
+    .design2 {
+        font-size: 5rem;
+        font-weight: 400;
+        color: #333333;
+        margin-top: 7rem;
+    }
+    
+    .div5 p {
+        font-size: 1.8rem;
+        font-weight: 400;
+        color: #333333;
+        margin-top: 3rem;
+    }
+    
+    .more2 {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start; 
+        align-items: center;
+    
+        margin-top: 7rem;
+        margin-bottom: 7rem;
+    }
+    
+    .more2 a {
+        text-decoration: none;
+        color: #333333;
+        font-size: 1.8rem;
+        font-weight: 600;
+    }
+    
+    .more2 img {
+        width: 4.1rem;
+        margin-left: 2rem;
+    }
+    
+    .puntos {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    
+        margin-top: 4rem;
+    }
+    
+    .flecha {
+        right: 0;
+        position: absolute;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        width: 8%;
+    }
+    
+    .flecha .img {
+        margin-left: -6rem;
+        position: absolute;
+    }
+    
+    .puntos img {
+        margin: 0rem 1.5rem;
+    }
+    
+    .portfolio {
+        font-size: 5.4rem;
+        font-weight: 500;
+        color: #333333;
+        align-self: center;
+        margin-top: 25rem;
+    }
+    
+    .lista {
+       display: none;
+    }
+    
+    .lista2 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-self: center;
+        width: 55%;
+        padding: 0rem 3rem;
+        margin-top: 4.5rem; 
+    }
+    
+    .lista2 li {
+        list-style: none;
+        font-size: 1.8rem;
+        font-weight: 400;
+        margin: 1.5rem 0rem;
+    }
+    
+    .all {
+        font-size: 1.4rem;
+        font-weight: 600 !important;
+    }
+    
+    .imagenes {
+        display: none;
+    }
+
+    .imagenes2 {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 5rem;
+    }
+
+    .imagenes2 img{
+        align-self: flex-start;
+        width: 32%;
+    }
+
+    .d1 {
+        margin-top: -11rem;
+        position: relative;
+    }
+    .d3 {
+        margin-top: 3.3rem;
+    }
+    .d5 {
+       margin-top: -24.8rem;
+    }
+    
+    .client {
+        font-size: 5.4rem;
+        font-weight: 500;
+        color: #333333;
+        margin-top: 25rem;
+        align-self: center;
+    }
+    
+    .div6 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around; 
+    }
+    
+    .man {
+        margin-top: 10rem;
+        width: 48.6rem;
+        align-self: center;
+    }
+
+    .man1 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        width: 100%;
+        padding: 0rem 1.5rem;  
+    }
+
+    .inf {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 49%;
+    }
+
+    .puntos2 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+        width: 35%;
+        align-self: flex-start;
+    
+        margin-top: 12rem;
+    }
+
+    .flecha2 {
+        right: 0;
+        position: absolute;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        width: 8%;
+    }
+    
+    .flecha2 .img {
+        margin-left: -7rem;
+        position: absolute;
+    }
+    
+    .com1 {
+        margin-top: 6rem;
+        margin-bottom: 1rem;
+    }
+    
+    .com1 img {
+        width: 3.418rem;
+    }
+    
+    .com2 {
+        position: absolute;
+        right: 0;
+        margin-top: 1rem;
+        margin-right: 3rem;
+    }
+    
+    .com2 img {
+        width: 3.418rem;
+    }
+    
+    .div6 p {
+        font-size: 3.2rem;
+        font-weight: 400;
+        color: #333333;
+    }
+    
+    .name {
+        font-size: 2.8rem;
+        color: #333333;
+        font-weight: 500;
+        margin-top: 15rem;
+    }
+    
+    .ceo {
+        font-size: 2rem;
+        font-weight: 400;
+        margin-top: 30rem;
+    }
+    
+    .div7 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background-color: #333333;
+        margin-top: 10rem;
+    }
+    
+    .div7 .hel {
+        position: absolute;
+        width: 103.9rem;
+    }
+    
+    .title {
+        color: #FFFFFF;
+        font-weight: 400;
+        font-size: 3.2rem;
+        margin-top: 8rem;
+    }
+    
+    .title2 {
+        color: #FFFFFF;
+        font-weight: 400;
+        font-size: 5.4rem;
+        margin-top: 3rem;
+        z-index: 3;
+    }
+    
+    .cont {
+        background-color: #FFFFFF;
+        text-decoration: none;
+        color: #333333;
+        width: 18.5rem;
+        height: 7.3rem;
+        font-size: 2.8rem;
+        font-weight: 400;
+        margin-top: 8rem;
+    
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        z-index: 2;
+    }
+    
+    .ico {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        width: 50%;
+        margin-top: 8rem;
+        margin-bottom: 8rem;
+    }
+    
+    .ico img {
+        width: 3.2rem;
+    }
+    
+    .ba {
+        width: 2.5rem;
+    }
+    
+    .div8 {
+        display: none;
+    }
+    
+    .div8- {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0rem 16rem;
+        margin-top: 12rem;
+        width: 100%;
+    }
+    
+    .div8- div{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center; 
+        z-index: 5;
+    }
+    
+    .div8- h2{
+        font-size: 6.4rem;
+        font-weight: 400;
+        margin-top: 4rem;
+    }
+    
+    .div8- span{
+        font-size: 2.4rem;
+        font-weight: 400;
+        margin-top: 1.5rem;
+    }
+    
+    .proje {
+        position: absolute;
+        margin-left: 6rem;
+        margin-top: 3.3rem;
+        width: 109.3rem;
+    }
+    
+    .container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 0rem 1.5rem;
+    }
+
+    .cuadros2 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+        width: 100%;
+    }
+    
+    .div9 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: 3rem;
+        background-color: #333333;
+        width: 34.133rem;
+    }
+
+    .div9 h2 {
+        color: #FFFFFF;
+        font-size: 2rem;
+        font-weight: 400;
+        align-self: center;
+        margin-top: 7rem;
+        margin-left: 1.5rem;
+    }
+
+    .div9 img {
+        width: 100%;
+    }
+    
+    .div9- {
+        display: none;
+    }
+    
+    .blog{
+        font-size: 5.4rem;
+        font-weight: 500;
+        margin-top: 28rem;
+        margin-bottom: 4rem;
+    }
+    
+    .div9- img{
+        align-self: center;
+        width: 100%;
+        margin-top: -0.2rem;
+    }
+    
+    .info {
+        display: flex;
+        justify-content: space-between;
+        align-items: center; 
+        width: 100%;
+        margin-top: 2rem;
+        padding: 0rem 2rem;
+    }
+    
+    .info span {
+        color: #FFFFFF;
+        font-size: 1.4rem;
+        font-weight: 400;
+    }
+    
+    .div9- h2 {
+        color: #FFFFFF;
+        font-size: 2rem;
+        font-weight: 400;
+        align-self: center;
+        margin-top: 7rem;
+        margin-left: 1.5rem;
+    }
+    
+    .more3 {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start; 
+    
+        margin-top: 7rem;
+        align-self: flex-start;
+        margin-bottom: 2rem;
+        padding: 0rem 2rem;
+    }
+    
+    .more3 a {
+        text-decoration: none;
+        color: #FFFFFF;
+        font-size: 1.8rem;
+        font-weight: 500;
+    }
+    
+    .more3 img {
+        width: 4.1rem;
+        margin-left: 2rem;
+    }
+    
+    .container h2 {
+        font-size: 2.4rem;
+        font-weight: 400;
+        margin-top: 7rem;
+        align-self: flex-start;
+    }
+    
+    .fin p {
+        font-size: 4rem;
+        font-weight: 300;
+        margin-top: 4rem;
+        width: 72.1rem;
+    }
+    
+    .hire {
+        font-size: 5.4rem !important;
+        font-weight: 500 !important;
+        margin-top: 20rem !important;
+        align-self: center !important;
+    }
+    .fin {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+        padding: 0rem 1.5rem;
+    }
+    
+    .line {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        width: 100%;
+        margin-top: 12rem;
+    }
+    
+    .line div {
+        margin-top: 2rem;
+        width: 26.6rem;
+    }
+    
+    .line span {
+        font-size: 2rem;
+        font-weight: 300;
+    }
+    
+    .form {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        width: 35%;
+        background-color: #333333;
+        padding: 0rem 6rem;
+        margin-top: 6rem;
+    }
+    
+    .form input {
+        width: 100%;
+        height: 3rem;
+        background-color: #333333;
+        border: none;
+        outline: none;
+        border-bottom: 0.1rem solid #FFFFFF;
+        color: #FFFFFF;
+        font-size: 1.4rem;
+        margin-top: 6rem;
+    }
+    
+    .proj {
+        color: #FFFFFF;
+        font-size: 1.4rem;
+        font-weight: 400;
+        margin-top: 6rem;
+    }
+    
+    .inp {
+        margin-top: 0.5rem !important;
+    }
+    
+    ::placeholder {
+        color: #FFFFFF;
+        font-size: 1.4rem;
+        font-weight: 400;
+    }
+    
+    .btn {
+        display: flex;
+        justify-content: flex-end;
+        width: 100%;
+    }
+    
+    .form button {
+        font-size: 1.4rem;
+        font-weight: 300;
+        width: 11.6rem;
+        height: 4.9rem;
+        align-self: flex-end;
+        margin-top: 2rem;
+        background-color: #FFFFFF;
+        border: none;
+        margin-bottom: 6rem;
+    }
+    
+    .bottom {
+        display: flex;
+        flex-direction: row-reverse;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+        padding: 0rem 1.5rem;
+        margin-top: 8rem;
+    }
+
+    .iconos2 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around; 
+        align-items: center;
+        width: 40%;  
+    
+        margin-top: 5rem;
+    }
+    
+    .temp {
+        font-size: 1.4rem;
+        font-weight: 400;
+        margin-top: 2rem;
+    }
+}
+
+@media screen and (min-width: 769px) and (max-width:1280px) {
+    .img1{
+        width: 14rem;
+    } 
+    
+    .men {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+    }
+    
+    .img2 {
+        width: 2.1rem;
+        height: 1.5rem;
+    }
+    
+    .menu {
+        font-size: 2.4rem;
+        font-weight: 300;
+        font-family: 'Ubuntu', sans-serif;
+    }
+    
+    header{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 3rem;
+        padding: 0rem 1.5rem;
+    }
+    
+    .div1 {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: center;
+        margin-top: 5rem;
+        padding: 0rem 3rem;
+    }
+    
+    .hello {
+        margin: 0rem 1rem;
+        font-size: 3.4rem;
+        font-weight: 700;
+        font-family: 'Ubuntu', sans-serif;
+    }
+    
+    .div2 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        margin-top: 2rem;
+        padding: 0rem 3rem;
+    }
+    
+    .no1 {
+        font-weight: 500;
+        font-size: 7.4rem;
+        width: 59.8rem;
+    }
+    
+    .p1 {
+        margin: 2rem 0rem;
+        font-size: 4rem;
+        font-weight: 400;
+        width: 59.8rem;
+    }
+    
+    .p2 {
+        margin: 1.2rem 0rem;
+        font-size: 2.4rem;
+        font-weight: 400;
+        width: 59.8rem;
+    }
+    
+    .div3 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        margin-top: 4rem;
+        padding: 0rem 3rem; 
+    }
+    
+    .pic {
+        width: 43.4rem;
+    }
+    
+    .pic2 {
+        display: none;
+    }
+
+    .ic {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: center;
+    }
+    
+    .iconos {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around; 
+        align-items: center;  
+        align-self: center;
+        width: 25%;
+    
+        margin-top: 9rem;
+    }
+
+    .scroll {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        margin-left: 30rem;
+    }
+
+    .scroll span {
+        font-size: 1.8rem;
+        font-weight: 300;
+        margin-top: 10rem;
+    }
+
+    .scroll img {
+        margin-top: 1rem;
+    }
+    
+    .a {
+        width: 2rem;
+        height: 2rem; 
+    }
+    
+    .b {
+        width: 3.8rem;
+        height: 3.8rem;
+    }
+    
+    .c {
+        width: 2rem; 
+    }
+    
+    .tit {
+        font-size: 3.6rem;
+        font-weight: 400;
+        margin-top: 25rem;
+        align-self: center;
+    }
+    
+    .video {
+        width: 108.8rem;
+        margin-top: 7rem;
+        align-self: center;
+    }
+    
+    .video2 {
+        display: none;
+    }
+    
+    .tit2 {
+        font-size: 5.4rem;
+        font-weight: 500;
+        margin-top: 25rem;
+        margin-bottom: 7rem;
+        align-self: center;
+    }
+
+    .cuadros {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .div4 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        padding: 0rem 2rem; 
+        background-color: #333333;
+    
+        margin-bottom: 4rem;
+        width: 34.133rem;
+    }
+    
+    .design {
+        font-size: 4.6rem;
+        font-weight: 400;
+        color: #FFFFFF;
+        margin-top: 7rem;
+    }
+    
+    .div4 p {
+        font-size: 1.8rem;
+        font-weight: 400;
+        color: #FFFFFF;
+        margin-top: 3rem;
+    }
+    
+    .more {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start; 
+        align-items: center;
+    
+        margin-top: 7rem;
+        margin-bottom: 7rem;
+    }
+    
+    .more a {
+        text-decoration: none;
+        color: #FFFFFF;
+        font-size: 1.8rem;
+        font-weight: 600;
+    }
+    
+    .more img {
+        width: 4.1rem;
+        margin-left: 2rem;
+    }
+    
+    .div5 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        padding: 0rem 2rem; 
+        background-color: #D6D6D6;
+    
+        margin-bottom: 4rem;
+        width: 34.133rem;
+    }
+    
+    .design2 {
+        font-size: 4.6rem;
+        font-weight: 400;
+        color: #333333;
+        margin-top: 7rem;
+    }
+    
+    .div5 p {
+        font-size: 1.8rem;
+        font-weight: 400;
+        color: #333333;
+        margin-top: 3rem;
+    }
+    
+    .more2 {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start; 
+        align-items: center;
+    
+        margin-top: 7rem;
+        margin-bottom: 7rem;
+    }
+    
+    .more2 a {
+        text-decoration: none;
+        color: #333333;
+        font-size: 1.8rem;
+        font-weight: 600;
+    }
+    
+    .more2 img {
+        width: 4.1rem;
+        margin-left: 2rem;
+    }
+    
+    .puntos {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    
+        margin-top: 4rem;
+    }
+    
+    .flecha {
+        right: 0;
+        position: absolute;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        width: 8%;
+    }
+    
+    .flecha .img {
+        margin-left: -6rem;
+        position: absolute;
+    }
+    
+    .puntos img {
+        margin: 0rem 1.5rem;
+    }
+    
+    .portfolio {
+        font-size: 5.4rem;
+        font-weight: 500;
+        color: #333333;
+        align-self: center;
+        margin-top: 25rem;
+    }
+    
+    .lista {
+       display: none;
+    }
+    
+    .lista2 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-self: center;
+        width: 55%;
+        padding: 0rem 3rem;
+        margin-top: 4.5rem; 
+    }
+    
+    .lista2 li {
+        list-style: none;
+        font-size: 1.8rem;
+        font-weight: 400;
+        margin: 1.5rem 0rem;
+    }
+    
+    .all {
+        font-size: 1.4rem;
+        font-weight: 600 !important;
+    }
+    
+    .imagenes {
+        display: none;
+    }
+
+    .imagenes2 {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 5rem;
+    }
+
+    .imagenes2 img{
+        align-self: flex-start;
+        width: 32%;
+    }
+
+    .d1 {
+        margin-top: -8rem;
+        position: relative;
+    }
+    .d3 {
+        margin-top: 3.3rem;
+    }
+    .d5 {
+       margin-top: -18.5rem;
+    }
+    
+    .client {
+        font-size: 5.4rem;
+        font-weight: 500;
+        color: #333333;
+        margin-top: 25rem;
+        align-self: center;
+    }
+    
+    .div6 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around; 
+    }
+    
+    .man {
+        margin-top: 10rem;
+        width: 48.6rem;
+        align-self: center;
+    }
+
+    .man1 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        width: 100%;  
+    }
+
+    .inf {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 49%;
+    }
+
+    .puntos2 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+        width: 35%;
+        align-self: flex-start;
+    
+        margin-top: 12rem;
+    }
+
+    .flecha2 {
+        right: 0;
+        position: absolute;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        width: 8%;
+    }
+    
+    .flecha2 .img {
+        margin-left: -7rem;
+        position: absolute;
+    }
+    
+    .com1 {
+        margin-top: 6rem;
+        margin-bottom: 1rem;
+    }
+    
+    .com1 img {
+        width: 3.418rem;
+    }
+    
+    .com2 {
+        position: absolute;
+        right: 0;
+        margin-top: 1rem;
+        margin-right: 3rem;
+    }
+    
+    .com2 img {
+        width: 3.418rem;
+    }
+    
+    .div6 p {
+        font-size: 3.2rem;
+        font-weight: 400;
+        color: #333333;
+    }
+    
+    .name {
+        font-size: 2.8rem;
+        color: #333333;
+        font-weight: 500;
+        margin-top: 15rem;
+    }
+    
+    .ceo {
+        font-size: 2rem;
+        font-weight: 400;
+        margin-top: 30rem;
+    }
+    
+    .div7 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background-color: #333333;
+        margin-top: 10rem;
+    }
+    
+    .div7 .hel {
+        position: absolute;
+        width: 103.9rem;
+    }
+    
+    .title {
+        color: #FFFFFF;
+        font-weight: 400;
+        font-size: 3.2rem;
+        margin-top: 8rem;
+    }
+    
+    .title2 {
+        color: #FFFFFF;
+        font-weight: 400;
+        font-size: 5.4rem;
+        margin-top: 3rem;
+        z-index: 3;
+    }
+    
+    .cont {
+        background-color: #FFFFFF;
+        text-decoration: none;
+        color: #333333;
+        width: 18.5rem;
+        height: 7.3rem;
+        font-size: 2.8rem;
+        font-weight: 400;
+        margin-top: 8rem;
+    
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        z-index: 2;
+    }
+    
+    .ico {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        width: 100%;
+        margin-top: 8rem;
+        margin-bottom: 8rem;
+    }
+    
+    .ico img {
+        width: 3.2rem;
+    }
+    
+    .ba {
+        width: 2.5rem;
+    }
+    
+    .div8 {
+        display: none;
+    }
+    
+    .div8- {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0rem 2rem;
+        margin-top: 12rem;
+        width: 100%;
+    }
+    
+    .div8- div{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center; 
+        z-index: 5;
+    }
+    
+    .div8- h2{
+        font-size: 6.4rem;
+        font-weight: 400;
+        margin-top: 4rem;
+    }
+    
+    .div8- span{
+        font-size: 2.4rem;
+        font-weight: 400;
+        margin-top: 1.5rem;
+    }
+    
+    .proje {
+        position: absolute;
+        margin-left: 10rem;
+        margin-top: 3.3rem;
+        width: 87.9rem;
+    }
+    
+    .container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 0rem 1.5rem;
+    }
+
+    .cuadros2 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+        width: 100%;
+    }
+    
+    .div9 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: 3rem;
+        background-color: #333333;
+        width: 34.133rem;
+    }
+
+    .div9 h2 {
+        color: #FFFFFF;
+        font-size: 2rem;
+        font-weight: 400;
+        align-self: center;
+        margin-top: 7rem;
+        margin-left: 1.5rem;
+    }
+
+    .div9 img {
+        width: 100%;
+    }
+    
+    .div9- {
+        display: none;
+    }
+    
+    .blog{
+        font-size: 5.4rem;
+        font-weight: 500;
+        margin-top: 28rem;
+        margin-bottom: 4rem;
+    }
+    
+    .div9- img{
+        align-self: center;
+        width: 100%;
+        margin-top: -0.2rem;
+    }
+    
+    .info {
+        display: flex;
+        justify-content: space-between;
+        align-items: center; 
+        width: 100%;
+        margin-top: 2rem;
+        padding: 0rem 2rem;
+    }
+    
+    .info span {
+        color: #FFFFFF;
+        font-size: 1.4rem;
+        font-weight: 400;
+    }
+    
+    .div9- h2 {
+        color: #FFFFFF;
+        font-size: 2rem;
+        font-weight: 400;
+        align-self: center;
+        margin-top: 7rem;
+        margin-left: 1.5rem;
+    }
+    
+    .more3 {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start; 
+    
+        margin-top: 7rem;
+        align-self: flex-start;
+        margin-bottom: 2rem;
+        padding: 0rem 2rem;
+    }
+    
+    .more3 a {
+        text-decoration: none;
+        color: #FFFFFF;
+        font-size: 1.8rem;
+        font-weight: 500;
+    }
+    
+    .more3 img {
+        width: 4.1rem;
+        margin-left: 2rem;
+    }
+    
+    .container h2 {
+        font-size: 2.4rem;
+        font-weight: 400;
+        margin-top: 7rem;
+        align-self: flex-start;
+    }
+    
+    .fin p {
+        font-size: 2.8rem;
+        font-weight: 300;
+        margin-top: 4rem;
+        width: 43.3rem;
+    }
+    
+    .hire {
+        font-size: 5.4rem !important;
+        font-weight: 500 !important;
+        margin-top: 20rem !important;
+        align-self: center !important;
+    }
+    .fin {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+        padding: 0rem 1.5rem;
+    }
+    
+    .line {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        width: 100%;
+        margin-top: 12rem;
+    }
+    
+    .line div {
+        margin-top: 2rem;
+        width: 26.6rem;
+    }
+    
+    .line span {
+        font-size: 2rem;
+        font-weight: 300;
+    }
+    
+    .form {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        width: 45%;
+        background-color: #333333;
+        padding: 0rem 6rem;
+        margin-top: 6rem;
+    }
+    
+    .form input {
+        width: 100%;
+        height: 3rem;
+        background-color: #333333;
+        border: none;
+        outline: none;
+        border-bottom: 0.1rem solid #FFFFFF;
+        color: #FFFFFF;
+        font-size: 1.4rem;
+        margin-top: 6rem;
+    }
+    
+    .proj {
+        color: #FFFFFF;
+        font-size: 1.4rem;
+        font-weight: 400;
+        margin-top: 6rem;
+    }
+    
+    .inp {
+        margin-top: 0.5rem !important;
+    }
+    
+    ::placeholder {
+        color: #FFFFFF;
+        font-size: 1.4rem;
+        font-weight: 400;
+    }
+    
+    .btn {
+        display: flex;
+        justify-content: flex-end;
+        width: 100%;
+    }
+    
+    .form button {
+        font-size: 1.4rem;
+        font-weight: 300;
+        width: 11.6rem;
+        height: 4.9rem;
+        align-self: flex-end;
+        margin-top: 2rem;
+        background-color: #FFFFFF;
+        border: none;
+        margin-bottom: 6rem;
+    }
+    
+    .bottom {
+        display: flex;
+        flex-direction: row-reverse;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+        padding: 0rem 1.5rem;
+    }
+
+    .iconos2 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around; 
+        align-items: center;
+        width: 40%;  
+    
+        margin-top: 5rem;
+    }
+    
+    .temp {
+        font-size: 1.4rem;
+        font-weight: 400;
+        margin-top: 2rem;
+    }
+}
+
+@media screen and (min-width: 481px) and (max-width:768px) {
+    .imagenes2 {
+        display: none;
+    }
+
+    .ic {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+    .scroll {
+        display: none;
+    }
+    .img1{
+        width: 14rem;
+    } 
+    
+    .men {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        width: 14%;
+    }
+    
+    .img2 {
+        width: 2.1rem;
+        height: 1.5rem;
+    }
+    
+    .menu {
+        font-size: 2.4rem;
+        font-weight: 300;
+        font-family: 'Ubuntu', sans-serif;
+    }
+    
+    header{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 3rem;
+        padding: 0rem 1.5rem;
+    }
+    
+    .div1 {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: center;
+        margin-top: 5rem;
+        padding: 0rem 1.5rem;
+    }
+    
+    .hello {
+        margin: 0rem 1rem;
+        font-size: 3.4rem;
+        font-weight: 700;
+        font-family: 'Ubuntu', sans-serif;
+    }
+    
+    .div2 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        margin-top: 2rem;
+        padding: 0rem 2rem;
+    }
+    
+    .no1 {
+        font-weight: 500;
+        font-size: 7.4rem;
+    }
+    
+    .p1 {
+        margin: 2rem 0rem;
+        font-size: 4rem;
+        font-weight: 400;
+    }
+    
+    .p2 {
+        margin: 1.2rem 0rem;
+        font-size: 2.4rem;
+        font-weight: 400;
+    }
+    
+    .div3 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        margin-top: 4rem;
+        padding: 0rem 1.5rem; 
+    }
+    
+    .pic {
+        display: none;
+    }
+    
+    .pic2 {
+        width: 64.5rem;
+        align-self: center;
+        margin-top: 4rem;
+    }
+    
+    .iconos {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around; 
+        align-items: center;  
+        align-self: center;
+        width: 40%;
+    
+        margin-top: 6rem;
+    }
+    
+    .a {
+        width: 2rem;
+        height: 2rem; 
+    }
+    
+    .b {
+        width: 3.8rem;
+        height: 3.8rem;
+    }
+    
+    .c {
+        width: 2rem; 
+    }
+    
+    .tit {
+        font-size: 3.6rem;
+        font-weight: 400;
+        margin-top: 18rem;
+        align-self: center;
+    }
+    
+    .video {
+        display: none;
+    }
+    
+    .video2 {
+        width: 64.5rem;
+        margin-top: 7rem;
+        align-self: center;
+    }
+    
+    .tit2 {
+        font-size: 5.4rem;
+        font-weight: 500;
+        margin-top: 16rem;
+        margin-bottom: 7rem;
+        align-self: center;
+    }
+    .div4 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        padding: 0rem 2rem; 
+        background-color: #333333;
+    
+        margin-bottom: 4rem;
+    }
+    
+    .design {
+        font-size: 4.6rem;
+        font-weight: 400;
+        color: #FFFFFF;
+        margin-top: 11rem;
+    }
+    
+    .div4 p {
+        font-size: 1.8rem;
+        font-weight: 400;
+        color: #FFFFFF;
+        margin-top: 3rem;
+    }
+    
+    .more {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start; 
+        align-items: center;
+    
+        margin-top: 7rem;
+        margin-bottom: 11rem;
+    }
+    
+    .more a {
+        text-decoration: none;
+        color: #FFFFFF;
+        font-size: 1.8rem;
+        font-weight: 600;
+    }
+    
+    .more img {
+        width: 4.1rem;
+        margin-left: 2rem;
+    }
+    
+    .div5 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        padding: 0rem 2rem; 
+        background-color: #D6D6D6;
+    
+        margin-bottom: 4rem;
+    }
+    
+    .design2 {
+        font-size: 4.6rem;
+        font-weight: 400;
+        color: #333333;
+        margin-top: 11rem;
+    }
+    
+    .div5 p {
+        font-size: 1.8rem;
+        font-weight: 400;
+        color: #333333;
+        margin-top: 3rem;
+    }
+    
+    .more2 {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start; 
+        align-items: center;
+    
+        margin-top: 7rem;
+        margin-bottom: 11rem;
+    }
+    
+    .more2 a {
+        text-decoration: none;
+        color: #333333;
+        font-size: 1.8rem;
+        font-weight: 600;
+    }
+    
+    .more2 img {
+        width: 4.1rem;
+        margin-left: 2rem;
+    }
+    
+    .puntos {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    
+        margin-top: 4rem;
+    }
+    
+    .flecha {
+        right: 0;
+        position: absolute;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        width: 8%;
+    }
+    
+    .flecha .img {
+        margin-left: -6rem;
+        position: absolute;
+    }
+    
+    .puntos img {
+        margin: 0rem 1.5rem;
+    }
+    
+    .portfolio {
+        font-size: 5.4rem;
+        font-weight: 500;
+        color: #333333;
+        align-self: center;
+        margin-top: 20rem;
+    }
+    
+    .lista {
+       display: none;
+    }
+    
+    .lista2 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-self: center;
+        width: 80%;
+        padding: 0rem 1.5rem;
+        margin-top: 4.5rem; 
+    }
+    
+    .lista2 li {
+        list-style: none;
+        font-size: 1.8rem;
+        font-weight: 400;
+        margin: 1.5rem 0rem;
+    }
+    
+    .all {
+        font-size: 1.4rem;
+        font-weight: 600 !important;
+    }
+    
+    .imagenes {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        padding: 0rem 1.5rem;
+    }
+    
+    .imagenes img {
+        margin-top: 3.5rem;
+        width: 100%;
+    }
+    
+    .col {
+        margin-bottom: 2rem;
+    }
+    
+    .client {
+        font-size: 5.4rem;
+        font-weight: 500;
+        color: #333333;
+        margin-top: 17rem;
+        align-self: center;
+    }
+    
+    .div6 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around; 
+    }
+
+    .man1 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around; 
+    }
+    
+    .man {
+        margin-top: 10rem;
+        width: 37.7rem;
+        align-self: center;
+    }
+    
+    .com1 {
+        margin-top: 6rem;
+        margin-bottom: 1rem;
+    }
+    
+    .com1 img {
+        width: 3.418rem;
+    }
+    
+    .com2 {
+        right: 0;
+        position: absolute;
+        margin-top: 1rem;
+        margin-right: 1.5rem;
+    }
+    
+    .com2 img {
+        width: 3.418rem;
+    }
+    
+    .div6 p {
+        font-size: 3.2rem;
+        font-weight: 400;
+        color: #333333;
+    }
+
+    .puntos2 {
+        display: none;
+    }
+    
+    .name {
+        font-size: 2.8rem;
+        color: #333333;
+        font-weight: 500;
+        margin-top: 10rem;
+    }
+    
+    .ceo {
+        font-size: 2rem;
+        font-weight: 400;
+        margin-top: 1rem;
+    }
+    
+    .div7 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background-color: #333333;
+        margin-top: 10rem;
+    }
+    
+    .div7 .hel {
+        position: absolute;
+        width: 68rem;
+    }
+    
+    .title {
+        color: #FFFFFF;
+        font-weight: 400;
+        font-size: 3.2rem;
+        margin-top: 8rem;
+    }
+    
+    .title2 {
+        color: #FFFFFF;
+        font-weight: 400;
+        font-size: 5.4rem;
+        margin-top: 3rem;
+        z-index: 3;
+    }
+    
+    .cont {
+        background-color: #FFFFFF;
+        text-decoration: none;
+        color: #333333;
+        width: 18.5rem;
+        height: 7.3rem;
+        font-size: 2.8rem;
+        font-weight: 400;
+        margin-top: 8rem;
+    
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        z-index: 2;
+    }
+    
+    .ico {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        width: 100%;
+        margin-top: 8rem;
+        margin-bottom: 8rem;
+    }
+    
+    .ico img {
+        width: 3.2rem;
+    }
+    
+    .ba {
+        width: 2.5rem;
+    }
+    
+    .div8 {
+        display: none;
+    }
+    
+    .div8- {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0rem 2rem;
+        margin-top: 3rem;
+        width: 100%;
+    }
+    
+    .div8- div{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center; 
+        z-index: 5;
+    }
+    
+    .div8- h2{
+        font-size: 4rem;
+        font-weight: 400;
+        margin-top: 4rem;
+    }
+    
+    .div8- span{
+        font-size: 1.8rem;
+        font-weight: 400;
+        margin-top: 1.5rem;
+    }
+    
+    .proje {
+        position: absolute;
+        margin-top: 3.3rem;
+        width: 64.5rem;
+    }
+    
+    .container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 0rem 1.5rem;
+    }
+    
+    .div9 {
+        display: none;
+    }
+    
+    .div9- {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: 3rem;
+        background-color: #333333;
+    }
+    
+    .blog{
+        font-size: 5.4rem;
+        font-weight: 500;
+        margin-top: 18rem;
+        margin-bottom: 4rem;
+    }
+    
+    .div9- img{
+        align-self: center;
+        width: 100%;
+        margin-top: -0.2rem;
+    }
+    
+    .info {
+        display: flex;
+        justify-content: space-between;
+        align-items: center; 
+        width: 100%;
+        margin-top: 2rem;
+        padding: 0rem 2rem;
+    }
+    
+    .info span {
+        color: #FFFFFF;
+        font-size: 1.4rem;
+        font-weight: 400;
+    }
+    
+    .div9- h2 {
+        color: #FFFFFF;
+        font-size: 2rem;
+        font-weight: 400;
+        align-self: center;
+        margin-top: 7rem;
+        margin-left: 1.5rem;
+    }
+    
+    .more3 {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start; 
+    
+        margin-top: 7rem;
+        align-self: flex-start;
+        margin-bottom: 2rem;
+        padding: 0rem 2rem;
+    }
+    
+    .more3 a {
+        text-decoration: none;
+        color: #FFFFFF;
+        font-size: 1.8rem;
+        font-weight: 500;
+    }
+    
+    .more3 img {
+        width: 4.1rem;
+        margin-left: 2rem;
+    }
+    
+    .container h2 {
+        font-size: 2.4rem;
+        font-weight: 400;
+        margin-top: 7rem;
+        align-self: flex-start;
+    }
+    
+    .container p {
+        font-size: 2.8rem;
+        font-weight: 300;
+        margin-top: 4rem;
+    }
+    
+    .hire {
+        font-size: 5.4rem !important;
+        font-weight: 500 !important;
+        margin-top: 20rem !important;
+    }
+    
+    .line {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        width: 100%;
+        margin-top: 4rem;
+    }
+    
+    .line div {
+        margin-top: 2rem;
+    }
+    
+    .line span {
+        font-size: 2rem;
+        font-weight: 300;
+    }
+    
+    .form {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        width: 100%;
+        background-color: #333333;
+        padding: 0rem 1.5rem;
+        margin-top: 6rem;
+    }
+    
+    .form input {
+        width: 100%;
+        height: 3rem;
+        background-color: #333333;
+        border: none;
+        outline: none;
+        border-bottom: 0.1rem solid #FFFFFF;
+        color: #FFFFFF;
+        font-size: 1.4rem;
+        margin-top: 9rem;
+    }
+    
+    .proj {
+        color: #FFFFFF;
+        font-size: 1.4rem;
+        font-weight: 400;
+        margin-top: 6rem;
+    }
+    
+    .inp {
+        margin-top: 0.5rem !important;
+    }
+    
+    ::placeholder {
+        color: #FFFFFF;
+        font-size: 1.4rem;
+        font-weight: 400;
+    }
+    
+    .btn {
+        display: flex;
+        justify-content: flex-end;
+        width: 100%;
+    }
+    
+    .form button {
+        font-size: 1.4rem;
+        font-weight: 300;
+        width: 11.6rem;
+        height: 4.9rem;
+        align-self: flex-end;
+        margin-top: 2rem;
+        background-color: #FFFFFF;
+        border: none;
+        margin-bottom: 9rem;
+    }
+
+    .bottom {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+
+    }
+    
+    .iconos2 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around; 
+        align-items: center;
+        width: 70%;  
+    
+        margin-top: 5rem;
+    }
+    
+    .temp {
+        font-size: 1.4rem;
+        font-weight: 400;
+        margin-top: 2rem;
+    }
+}
+
+@media screen and (min-width: 0px) and (max-width:480px) {
+    .imagenes2 {
+        display: none;
+    }
+
+    .scroll {
+        display: none;
+    }
+    .hel {
+        display: none;
+    }
+    
+    .div8- {
+        display: none;
+    }
+    
+    .proje {
+        display: none;
+    }
+    
+    .div9- {
+        display: none;
+    }
+    
+    .img1{
+        width: 9rem;
+    } 
+    
+    .lupa {
+        display: none;
+    }
+    
+    .menu {
+        display: none;
+    }
+    
+    header{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 3rem;
+        padding: 0rem 1.5rem;
+    }
+    
+    .div1 {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: center;
+        margin-top: 5rem;
+        padding: 0rem 1.5rem;
+    }
+    
+    .hello {
+        margin: 0rem 1rem;
+        font-size: 2.4rem;
+        font-weight: 500;
+    }
+    
+    .div2 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        margin-top: 2rem;
+        padding: 0rem 1.5rem;
+    }
+    
+    .no1 {
+        font-weight: 500;
+        font-size: 3.2rem;
+    }
+    
+    .div2 p {
+        margin: 1.2rem 0rem;
+        font-size: 1.8rem;
+    }
+    
+    .div3 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        margin-top: 4rem;
+        padding: 0rem 1.5rem; 
+    }
+
+    .perfil
+    
+    .pic {
+        width: 28.8rem;
+        margin-top: 4rem;
+    }
+    
+    .pic2 {
+        display: none;
+    }
+    
+    .iconos {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around; 
+        align-items: center;  
+    
+        margin-top: 5.5rem;
+    }
+    
+    .a {
+        width: 2rem;
+        height: 2rem; 
+    }
+    
+    .b {
+        width: 3.8rem;
+        height: 3.8rem;
+    }
+    
+    .c {
+        width: 2rem; 
+    }
+    
+    .tit {
+        font-size: 3.2rem;
+        font-weight: 400;
+        margin-top: 16rem;
+    }
+    
+    .video {
+        width: 28.8rem;
+        margin-top: 7rem;
+    }
+    
+    .video2 {
+        display: none;
+    }
+    
+    .tit2 {
+        font-size: 4rem;
+        font-weight: 500;
+        margin-top: 14rem;
+        margin-bottom: 5rem;
+        align-self: center;
+    }
+    .div4 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        padding: 0rem 2rem; 
+        background-color: #333333;
+    
+        margin-bottom: 4rem;
+    }
+    
+    .design {
+        font-size: 4.6rem;
+        font-weight: 400;
+        color: #FFFFFF;
+        margin-top: 6.75rem;
+    }
+    
+    .div4 p {
+        font-size: 1.8rem;
+        font-weight: 400;
+        color: #FFFFFF;
+        margin-top: 3rem;
+    }
+    
+    .more {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start; 
+        align-items: center;
+    
+        margin-top: 7rem;
+        margin-bottom: 7rem;
+    }
+    
+    .more a {
+        text-decoration: none;
+        color: #FFFFFF;
+        font-size: 1.8rem;
+        font-weight: 600;
+    }
+    
+    .more img {
+        width: 4.1rem;
+        margin-left: 2rem;
+    }
+    
+    .div5 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        padding: 0rem 2rem; 
+        background-color: #D6D6D6;
+    
+        margin-bottom: 4rem;
+    }
+    
+    .design2 {
+        font-size: 4rem;
+        font-weight: 400;
+        color: #333333;
+        margin-top: 6.75rem;
+    }
+    
+    .div5 p {
+        font-size: 1.8rem;
+        font-weight: 400;
+        color: #333333;
+        margin-top: 3rem;
+    }
+    
+    .more2 {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start; 
+        align-items: center;
+    
+        margin-top: 7rem;
+        margin-bottom: 7rem;
+    }
+    
+    .more2 a {
+        text-decoration: none;
+        color: #333333;
+        font-size: 1.8rem;
+        font-weight: 600;
+    }
+    
+    .more2 img {
+        width: 4.1rem;
+        margin-left: 2rem;
+    }
+    
+    .puntos {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    
+        margin-top: 4rem;
+    }
+    
+    .flecha {
+        display: none;
+    }
+    
+    .puntos img {
+        margin: 0rem 1.5rem;
+    }
+    
+    .portfolio {
+        font-size: 4rem;
+        font-weight: 500;
+        color: #333333;
+        align-self: center;
+        margin-top: 14rem;
+    }
+    
+    .lista {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        padding: 0rem 1.5rem;
+        margin-top: 3.5rem; 
+    }
+    
+    .lista2 {
+        display: none;
+    }
+    
+    .lista li {
+        list-style: none;
+        font-size: 1.4rem;
+        font-weight: 400;
+        margin: 1.5rem 0rem;
+    }
+    
+    .all {
+        font-size: 1.4rem;
+        font-weight: 600 !important;
+    }
+    
+    .imagenes {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        padding: 0rem 1.5rem;
+        margin-top: 5.5rem; 
+    }
+    
+    .imagenes img {
+        margin-top: 3.5rem;
+        width: 28rem;
+    }
+    
+    .col {
+        margin-bottom: 2rem;
+    }
+    
+    .client {
+        font-size: 4rem;
+        font-weight: 500;
+        color: #333333;
+        margin-top: 15rem;
+    }
+    
+    .div6 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around; 
+    }
+    
+    .man {
+        margin-top: 10rem;
+    }
+    
+    .com1 {
+        margin-top: 6rem;
+        margin-bottom: 1rem;
+    }
+    
+    .com1 img{
+        width: 2.625rem;
+    }
+    
+    .com2 {
+        position: absolute;
+        right: 0;
+        margin-top: 1rem;
+    }
+    
+    .com2 img{
+        width: 2.625rem;
+    }
+    
+    .div6 p {
+        font-size: 1.8rem;
+        font-weight: 400;
+        color: #333333;
+    }
+
+    .man {
+        width: 28.8rem;
+    }
+    
+    .name {
+        font-size: 2.8rem;
+        color: #333333;
+        font-weight: 500;
+        margin-top: 10rem;
+    }
+    
+    .ceo {
+        font-size: 2rem;
+        font-weight: 400;
+        margin-top: 2rem;
+    }
+
+    .puntos2 {
+        display: none;
+    }
+    
+    .div7 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background-color: #333333;
+        margin-top: 8rem;
+    }
+    
+    .title {
+        color: #FFFFFF;
+        font-weight: 400;
+        font-size: 3.2rem;
+        margin-top: 8rem;
+    }
+    
+    .title2 {
+        color: #FFFFFF;
+        font-weight: 400;
+        font-size: 4rem;
+        margin-top: 3rem;
+    }
+    
+    .cont {
+        background-color: #FFFFFF;
+        text-decoration: none;
+        color: #333333;
+        width: 18.5rem;
+        height: 7.3rem;
+        font-size: 2.8rem;
+        font-weight: 400;
+        margin-top: 10rem;
+    
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .ico {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        width: 100%;
+        margin-top: 8rem;
+        margin-bottom: 8rem;
+    }
+    
+    .ba {
+        width: 2.5rem;
+    }
+    
+    .div8 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 0rem 2rem;
+        margin-top: 3rem;
+    }
+    
+    .div8 h2{
+        font-size: 4rem;
+        font-weight: 400;
+        margin-top: 4rem;
+    }
+    
+    .div8 span{
+        font-size: 1.8rem;
+        font-weight: 400;
+        margin-top: 1.5rem;
+    }
+    
+    .container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 0rem 1.5rem;
+    }
+    
+    .div9 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: 3rem;
+        background-color: #333333;
+    }
+    
+    .blog{
+        font-size: 4rem;
+        font-weight: 500;
+        margin-top: 12rem;
+        margin-bottom: 3rem;
+    }
+    
+    .div9 img{
+        align-self: center;
+        width: 100%;
+    }
+    
+    .info {
+        display: flex;
+        justify-content: space-around;
+        align-items: center; 
+        width: 100%;
+        margin-top: 2rem;
+    }
+    
+    .info span {
+        color: #FFFFFF;
+        font-size: 1.4rem;
+        font-weight: 400;
+    }
+    
+    .div9 h2 {
+        color: #FFFFFF;
+        font-size: 2rem;
+        font-weight: 400;
+        align-self: center;
+        margin-top: 7rem;
+        margin-left: 1.5rem;
+    }
+    
+    .more3 {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start; 
+    
+        margin-top: 7rem;
+        margin-right: 10rem;
+        margin-bottom: 2rem;
+    }
+    
+    .more3 a {
+        text-decoration: none;
+        color: #FFFFFF;
+        font-size: 1.8rem;
+        font-weight: 500;
+    }
+    
+    .more3 img {
+        width: 4.1rem;
+        margin-left: 2rem;
+    }
+    
+    .des{
+        font-size: 4rem;
+        font-weight: 500;
+        margin-top: 18rem;
+    }
+    
+    .container p {
+        font-size: 1.8rem;
+        font-weight: 300;
+        margin-top: 4rem;
+    }
+
+    .hire {
+        font-size: 4rem;
+        font-weight: 500;
+        margin-top: 15rem;
+    }
+    
+    .line {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        width: 100%;
+        margin-top: 4rem;
+    }
+    
+    .line div {
+        margin-top: 2rem;
+    }
+    
+    .line span {
+        font-size: 1.8rem;
+        font-weight: 300;
+    }
+    
+    .form {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        width: 100%;
+        background-color: #333333;
+        padding: 0rem 1.5rem;
+        margin-top: 5rem;
+    }
+    
+    .form input {
+        width: 100%;
+        height: 3rem;
+        background-color: #333333;
+        border: none;
+        outline: none;
+        border-bottom: 0.1rem solid #FFFFFF;
+        color: #FFFFFF;
+        font-size: 1.4rem;
+        margin-top: 6rem;
+    }
+    
+    .proj {
+        color: #FFFFFF;
+        font-size: 1.4rem;
+        font-weight: 400;
+        margin-top: 6rem;
+    }
+    
+    .inp {
+        margin-top: 0.5rem !important;
+    }
+    
+    ::placeholder {
+        color: #FFFFFF;
+        font-size: 1.4rem;
+        font-weight: 400;
+    }
+    
+    .btn {
+        display: flex;
+        justify-content: flex-end;
+        width: 100%;
+    }
+    
+    .form button {
+        font-size: 1.4rem;
+        font-weight: 300;
+        width: 11.6rem;
+        height: 4.9rem;
+        align-self: flex-end;
+        margin-top: 2rem;
+        background-color: #FFFFFF;
+        border: none;
+        margin-bottom: 6rem;
+    }
+
+    .bottom {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .iconos2 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between; 
+        align-items: center;
+        width: 28rem;  
+    
+        margin-top: 5rem;
+    }
+    
+    .temp {
+        font-size: 1.4rem;
+        font-weight: 400;
+        margin-top: 2rem;
+        align-self: center;
+    }
+}
